@@ -1,5 +1,7 @@
 package ru.osarts.java.basics;
 
+// https://hyperskill.org/learn/step/46405
+
 public class TemperatureConverter {
     public static void main(String[] args) {
         double farenheit = 98.6;
